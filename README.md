@@ -1,2 +1,2 @@
 # VFPR
-Vector Fitting with Pols and Residues Circuit
+Vector Fitting with Poles and Residues Circuit
